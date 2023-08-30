@@ -20,9 +20,9 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
+        "homepage": "https://www.SSalis.com",
         "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
-        "deploy": "gh-pages -d build"
+        "predeploy": "yarn build && cp build/index.html build/404.html"
     },
     "eslintConfig": {
         "extends": [
