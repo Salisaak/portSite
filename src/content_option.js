@@ -7,8 +7,8 @@ const meta = {
 const introdata = {
     title: "I’m Saahir Salis",
     animated: {
-        first: "Most comfortable with Java",
-        second: "Skilled with React and React Native",
+        first: "Fullstack Java Developer",
+        second: "Agile Trained",
         third: "Test Driven Developer",
     },
     description: "Passionate and dedicated software developer with a strong foundation in full-stack development, specializing in React and Java",
@@ -40,35 +40,35 @@ const worktimeline = [{
 
 const skills = [{
         name: "Java",
-        value: 85,
-    },
-    {
-        name: "Javascript",
         value: 75,
     },
     {
+        name: "Javascript",
+        value: 65,
+    },
+    {
         name: "CSS",
-        value: 80,
+        value: 70,
     },
     {
         name: "React",
-        value: 85,
+        value: 75,
     },
     {
         name: "Spring",
-        value: 80,
+        value: 70,
     },
     {
         name: "React-Native",
-        value: 80,
+        value:70,
     },
     {
         name: "ColdFusion",
-        value: 40,
+        value: 30,
     },
     {
         name: "Python",
-        value: 65,
+        value: 55,
     },
 ];
 
@@ -94,17 +94,17 @@ const services = [{
 const dataportfolio = [{
         img: "https://i.imgur.com/bJHoWS4.png",
         description: "A mobile app made with React-Native allowing users to create an account,log in, post videos, and upvote other posts",
-        link: "#",
+        link: "https://github.com/Salisaak?tab=repositories",
     },
     {
         img: "https://i.imgur.com/tYKF5Bs.png",
         description: "A mock website of Alain Dupetits made in React",
-        link: "#",
+        link: "https://github.com/Salisaak?tab=repositories",
     },
     {
         img: "https://i.imgur.com/v2OdEQo.png",
         description: "A candle clock component that tracks in real time made in react with CSS and HTML",
-        link: "#",
+        link: "https://github.com/Salisaak?tab=repositories",
     },
 
 ];
